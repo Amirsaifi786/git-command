@@ -30,7 +30,7 @@ use your GitHub personal access token instead of a password.
 
 Example:
 
-Token: 763F-258E
+Token: 123456asdfgh
 
 
 (Then click Authorize when GitHub asks.)
